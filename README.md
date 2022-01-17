@@ -3,7 +3,6 @@ This repository showcases two policy gradient algorithms (One Step [Actor Critic
 
 
 
-
 ## Run Instructions
 ### Packages:
 numpy and matplotlib
