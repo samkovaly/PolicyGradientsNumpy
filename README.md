@@ -17,9 +17,9 @@ be wary of long compute times and plots that will pop up and must be exited in o
 
 ## Some Sample Plots
 <p float="left">
-    <img src="./plots/g2%20aoe%20plt=4%20mountain_car%20alg=ac%20O=many%20v_alpha=0.0001_%20p_alpha=0.001.png" width="275">
-    <img src="./plots/g6%20aoe%20plt=1%20mountain_car%20alg=ac%20O=20%20v_alpha=0.001_%20p_alpha=0.01.png" width="275">
-    <img src="./plots/g7%20aoe%20plt=2%20mountain_car%20alg=both%20O=many%20v_alpha=x_%20p_alpha=x.png" width="275">
+    <img src="./plots/g2%20aoe%20plt=4%20mountain_car%20alg=ac%20O=many%20v_alpha=0.0001_%20p_alpha=0.001.png" width="250">
+    <img src="./plots/g6%20aoe%20plt=1%20mountain_car%20alg=ac%20O=20%20v_alpha=0.001_%20p_alpha=0.01.png" width="250">
+    <img src="./plots/g7%20aoe%20plt=2%20mountain_car%20alg=both%20O=many%20v_alpha=x_%20p_alpha=x.png" width="250">
 </p>
 
 ## Files
